@@ -59,6 +59,11 @@
   font-weight: 500;
 }
 
+.header--img {
+  width: 30px;
+  margin-right: 10px;
+}
+
 .form {
   text-align: center;
   margin: 3em 0;
