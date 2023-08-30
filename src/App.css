@@ -54,6 +54,11 @@
   margin-right: auto;
 }
 
+.header--img {
+  width: 30px;
+  margin-right: 10px;
+}
+
 .header--subheading {
   font-size: 0.75rem;
   font-weight: 500;
